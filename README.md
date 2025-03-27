@@ -4,6 +4,11 @@ AI Applications for Digital Business
 
 ## Project Overview
 This project implements an AI-driven system to detect fake news, using Natural Language Processing (NLP) and machine learning techniques to accurately classify news articles.
+Due to GitHub's size limitations, the datasets (`Fake.csv` and `True.csv`) are not directly stored here.
+
+You can download them directly from Kaggle using this link:  
+[Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?resource=download)
+
 
 ## Data Description
 - **True News Articles:** 21,417
